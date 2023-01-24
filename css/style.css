@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    background-color: black;
+    padding: 2%;
+}
+
+h1 {
+    padding-top: 2.5%;
+    text-align: center;
+    font-size: 3.5vw;;
+}
+
+li {
+    display: inline;
+    font-size: 2vw;
+}
+
+.navbar-logo {
+    height: 2.5ch;
+    width: auto;
+}
+
+.navbar-right {
+    float: right !important;
+}
+
+.active {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.h1-logo {
+    height: 10ch;
+    width: auto;
+}
+
+.index-header {
+    display: inline;
+}
+
+.map {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+.data {
+    float: right;
+    text-align: left;
+}
